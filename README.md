@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Madhusri Garlapati</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">Unleashing Excellence in Full Stack Development </h3>
 
 - 🌱 I’m currently learning **React JS**
 
