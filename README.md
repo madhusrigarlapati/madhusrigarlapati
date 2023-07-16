@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex;">
+<div >
     <div>
     <h4> Programming Languages : </h4>
     <span>
