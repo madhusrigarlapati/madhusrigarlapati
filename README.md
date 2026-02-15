@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Madhusri Garlapati</h1>
 <h3 align="center">Unleashing Excellence in Full Stack Development </h3>
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **Node and Express JS**
-
 - 📫 How to reach me **madhusrigarlapati2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
